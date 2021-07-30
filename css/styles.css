@@ -14,3 +14,13 @@ body {
   color: #091e42;
   font-size: 20px;
 }
+
+.bg-tag {
+  color: #6070ff;
+  background-color: #ebebff;
+}
+
+ul.info li{
+  display: inline;
+  list-style-type: disc !important;
+}
