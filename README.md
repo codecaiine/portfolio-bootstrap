@@ -1,1 +1,62 @@
-# portfolio-bootstrap
+# Portfolio portfolio
+
+The project is inspired by the figma microverse template 1 (https://figma.com/)
+We used bootstrap for this project.
+
+ 
+
+## Live Demo
+
+[Live Demo Link](https://portfoliocodecaiine.github.io/)
+ 
+## Built With
+
+- HTML
+- CSS
+- Bootstrap CSS
+- HTML&CSS Linter
+
+## Get Started
+
+Please get your browser update.
+To get a local copy up and running follow these simple steps.
+
+Run the command below from the Terminal:
+
+          git clone <URL> in your terminal
+
+	  cd microverse-portfolio
+
+	  start index.html
+
+
+
+## Authors
+
+👤 **Author**
+
+- Fullname: Yannick-Noel AKA
+- Location: Côte d'Ivoire
+- GitHub: [@codecaiine](https://github.com/codecaiine)
+- Twitter: [@yannicknaka](https://twitter.com/yannicknaka)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/yannick-no%C3%ABl-aka/)
+
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Thanks to Microverse to made it
+- My learning and coding partners
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
